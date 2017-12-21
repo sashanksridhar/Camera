@@ -13,8 +13,8 @@ import javax.sound.sampled.*;
 import java.io.*;
  
 /**
- * A sample program is to demonstrate how to record sound in Java
- * author: www.codejava.net
+ *  program is to demonstrate how to record sound in Java
+ * author: sashank
  */
 public class JavaSoundRecorder {
     // record duration, in milliseconds
